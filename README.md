@@ -59,7 +59,7 @@ Here's a basic example of implementing a scroll animation using CSS only:
 ```
 ## Live Demo
 
-Check out the live demo of the 3D image slider [here](pkulal.github.io/Scroll-Animation/).
+Check out the live demo of the 3D image slider [here](https://pkulal.github.io/Scroll-Animation/).
 
 ## Conclusion
 
